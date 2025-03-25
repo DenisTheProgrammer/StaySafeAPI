@@ -13,6 +13,7 @@ const model = {
     'UserLongitude',
     'UserTimestamp',
     'UserImageURL',
+    'UserStatusID',
   ],
 
   buildReadQuery: (req, variant) => {

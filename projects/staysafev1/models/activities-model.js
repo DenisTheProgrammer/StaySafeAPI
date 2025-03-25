@@ -11,6 +11,7 @@ const model = {
     'ActivityLeave',
     'ActivityToID',
     'ActivityArrive',
+    'Transport',
     'ActivityStatusID',
   ],
 

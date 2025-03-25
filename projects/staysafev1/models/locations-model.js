@@ -4,6 +4,7 @@ const model = {
   table: 'Locations',
   idField: 'LocationID',
   mutableFields: [
+    'LocationUserID',
     'LocationName',
     'LocationDescription',
     'LocationAddress',
